@@ -878,7 +878,7 @@ footer img.bunga8 {
   }
   .surat img.bunga9 {
     max-width: 40%;
-    top: 860px;
+    top: 700px;
     left: 30%;
   }
   .surat p {
@@ -886,7 +886,7 @@ footer img.bunga8 {
   }
   .surat img.bunga4 {
     max-width: 40%;
-    top: 1180px;
+    top: 1100px;
     left: 30%;
   }
   .pengantin h3 {
@@ -975,8 +975,11 @@ footer img.bunga8 {
     right: 20px;
     padding: 0px 12px 8px 12px;
   }
+  .header {
+    height: 100%;
+  }
   .header .isi img.bunga1 {
-    max-width: 50%;
+    max-width: 40%;
   }
   .header .fm {
     display: flex;
@@ -984,7 +987,7 @@ footer img.bunga8 {
     align-items: center;
   }
   .header .fm .card {
-    margin-top: 12rem;
+    margin-top: 9rem;
     max-width: 20rem;
     width: 20rem;
     height: 20rem;
@@ -997,7 +1000,7 @@ footer img.bunga8 {
   .header .fm img.bunga2 {
     z-index: 1;
     max-width: 360px;
-    top: 180px;
+    top: 125px;
     left: 10px;
   }
   .header .isi {
@@ -1015,7 +1018,7 @@ footer img.bunga8 {
     left: 25%;
   }
   .surat p {
-    padding: 6rem 2rem 0 2rem;
+    padding: 3rem 2rem 0 2rem;
   }
   .surat img.bunga4 {
     max-width: 50%;
